@@ -19,7 +19,6 @@ To use the website, simply open the index.html file in a web browser. You will b
 ## Recipes
 The website features three popular North Indian dishes that are loved by many. Click on the links below to view the recipes:
 
-## Dal Makhani
 * Shahi Paneer
 * Butter Naan
 * Dal Makhani
