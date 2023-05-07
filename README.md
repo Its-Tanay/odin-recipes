@@ -23,6 +23,7 @@ The website features three popular North Indian dishes that are loved by many. C
 * Shahi Paneer
 * Butter Naan
 * Dal Makhani
+
 This website was created as a practice project and is not actively maintained. However, if you have any suggestions or find any issues, feel free to create a pull request or open an issue.
 
 ## License
